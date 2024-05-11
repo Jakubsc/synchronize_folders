@@ -1,6 +1,6 @@
 # synchronize_folders
 To run this program you need to have python installed.<br />
-To execute this program you have to do few steps.
+To execute this program you have to do few steps.<br />
 1.Navigate to the directory where your Python script is saved using the cd command. For example
 ```
 $ cd path_to_script_directory
