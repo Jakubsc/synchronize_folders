@@ -3,7 +3,7 @@ To run this program you need to have python installed
 To execute this program you have to do few steps.
 1.Navigate to the directory where your Python script is saved using the cd command. For example
 ```
-$ pip install pygame
+$ cd path_to_script_directory
 ```
 2. Once you're in the correct directory, you can call the Python script using the python command followed by the script filename and the required command-line arguments. For example:
 ```
